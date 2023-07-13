@@ -122,3 +122,7 @@ evaluate the models are also quite different.
 4. Precision and recall
 5. F1 Score 
 6. ROC curve and area under it
+
+
+**Help the deep Logistic Regression**
+[link.](https://www.analyticsvidhya.com/blog/2021/10/building-an-end-to-end-logistic-regression-model/)
